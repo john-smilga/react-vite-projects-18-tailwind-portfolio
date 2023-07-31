@@ -8,8 +8,8 @@ function App() {
     <>
       <Navbar />
       <Hero />
-      <About />
       <Skills />
+      <About />
       <Projects />
     </>
   );

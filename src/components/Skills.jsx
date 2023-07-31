@@ -2,7 +2,7 @@ import SkillsCard from './SkillsCard';
 import { skills } from '../data';
 const Skills = () => {
   return (
-    <section className='bg-white py-20' id='skills'>
+    <section className='py-20' id='skills'>
       <h2 className='text-center text-4xl font-medium tracking-wider capitalize'>
         skills
       </h2>
